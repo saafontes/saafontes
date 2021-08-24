@@ -1,6 +1,6 @@
 ### Hi there 👋🏼 
 
-Still a student, focused in Cyber Security :computer:
+<br>Still a student, focused in Cyber Security :computer:</br>
 
 
 <p>:books:   I like to study new techs and opportunities</p>
@@ -8,8 +8,8 @@ Still a student, focused in Cyber Security :computer:
 <p>:milky_way:   Take a look at my Linkedin profile: https://www.linkedin.com/in/saafontes</p>
 
 
-  • Thanks for visiting.
+- Thanks for visiting.
 
-  • Enjoy it! o/
+- Enjoy it! o/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saafontes&theme=dracula)](https://github.com/saafontes/github-readme-stats)
