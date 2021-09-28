@@ -8,6 +8,6 @@
 </br>:milky_way:   Take a look at my Linkedin profile: https://www.linkedin.com/in/saafontes
 
 
-- Valeu pela visita.
+- Be welcome.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saafontes&theme=dracula)](https://github.com/saafontes/github-readme-stats)
