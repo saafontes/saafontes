@@ -14,7 +14,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saafontes&theme=highcontrast&show_icons=true&title_color=7e0306&icon_color=F50000)](https://github.com/saafontes/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saafontes&theme=highcontrast&show_icons=true&title_color=7e0306&icon_color=7e0306)](https://github.com/saafontes/github-readme-stats)
 
 - Thanks for visiting.
 - Be welcome.
