@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Sabrina </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px">, I'm Sabrina </h1>
 
 - 💻 Cyber Security enthusiast. 
 - 🌱 I’m currently learning **Ethical Hacking** and **Basic Programming**.
